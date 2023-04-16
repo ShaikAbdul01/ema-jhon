@@ -14,3 +14,12 @@ nav a{
 nav a:hover{
     color: orange;
 }
+.text-white{
+    margin:0px 15px;
+    color: white;
+}
+.logout{
+    background-color: bisque;
+    border-radius: 15px;
+    padding: 10px;
+}
